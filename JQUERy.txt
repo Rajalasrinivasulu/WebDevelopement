@@ -1,0 +1,5 @@
+show.bs.dropdown.
+
+document.on(""),
+.find.
+.each().
